@@ -5,6 +5,8 @@ public class Main {
         // add args to handler
         ArgumentHandler.argList = args;
 
+        System.out.println(Math.round(Math.random() * 100));
+
 
     }
 }
